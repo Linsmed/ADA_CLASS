@@ -1,0 +1,10 @@
+body {
+  background-image: url("fine.jpg");
+  background-repeat: no-repeat;
+}
+.card {
+  margin-left: 28%;
+  margin-right: 18%;
+  margin-top: 15%;
+  width: auto;
+}
